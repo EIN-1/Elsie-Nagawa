@@ -25,6 +25,24 @@ During my studies and practical projects, I have gained expertise in:
 - **SEO Optimization** – Enhancing website visibility and search rankings
 - **Web Marketing Strategies** – Leveraging digital marketing techniques for business growth
 
+## 📚 Course Curriculum
+
+### **HTML & CSS Essentials:**
+- HTML5, CSS3, UX Design, GitHub Pages
+
+### **JavaScript Essentials:**
+- JS ES6, Browser Interactivity
+
+### **Python Essentials:**
+- Python 3, Heroku, Automation
+
+### **Fullstack Toolkit:**
+- Agile, Bootstrap, JQuery, Software Testing
+
+### **E-commerce Applications:**
+- APIs, Databases, Django
+- Web Marketing, SEO, Stripe with Django
+
 ## 📂 Portfolio Projects
 
 Here are five projects I have worked on:
