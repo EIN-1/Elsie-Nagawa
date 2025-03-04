@@ -4,44 +4,26 @@ I am Elsie Nagawa and I have successfully completed my **Diploma in Software Dev
 
 ## 🛠 Skills Acquired
 
-During my studies and practical projects, I have gained expertise in:
-
-### **Programming Languages & Frameworks:**
-- **Python** – Backend development, scripting, automation
-- **JavaScript** – Interactive web development
-- **Django** – High-level Python web framework for robust applications
-
 ### **Frontend Development:**
-- **HTML5 & CSS3** – Structuring and styling modern web applications
-- **Bootstrap** – Responsive design and UI enhancements
+- **HTML5 & CSS3** – Structuring and styling modern web applications with a focus on UX design.
+- **Bootstrap & JQuery** – Building responsive and dynamic interfaces.
+- **JavaScript (ES6+)** – Enhancing browser interactivity and front-end logic.
 
-### **Databases & Backend Development:**
-- **PostgreSQL** – Database management and optimization
+### **Backend Development:**
+- **Python 3** – Writing clean, efficient, and scalable backend code.
+- **Django** – Developing full-stack applications with APIs and database integration.
+- **PostgreSQL** – Managing relational databases efficiently.
+- **Heroku Deployment** – Hosting and maintaining cloud-based applications.
 
-### **Testing & Debugging:**
-- **Unit Testing** – Writing and executing test cases to ensure software reliability
+### **Software Development & Testing:**
+- **Agile Methodology** – Collaborative development process and iterative improvements.
+- **Unit Testing** – Ensuring software reliability through automated tests.
+- **Version Control (Git & GitHub)** – Managing code efficiently using repositories.
 
-### **SEO & Web Marketing:**
-- **SEO Optimization** – Enhancing website visibility and search rankings
-- **Web Marketing Strategies** – Leveraging digital marketing techniques for business growth
-
-## 📚 Course Curriculum
-
-### **HTML & CSS Essentials:**
-- HTML5, CSS3, UX Design, GitHub Pages
-
-### **JavaScript Essentials:**
-- JS ES6, Browser Interactivity
-
-### **Python Essentials:**
-- Python 3, Heroku, Automation
-
-### **Fullstack Toolkit:**
-- Agile, Bootstrap, JQuery, Software Testing
-
-### **E-commerce Applications:**
-- APIs, Databases, Django
-- Web Marketing, SEO, Stripe with Django
+### **E-commerce & Web Marketing:**
+- **Stripe Integration with Django** – Implementing secure payment processing.
+- **SEO Optimization** – Enhancing search engine visibility and traffic.
+- **Web Marketing Strategies** – Leveraging online strategies for business growth.
 
 ## 📂 Portfolio Projects
 
