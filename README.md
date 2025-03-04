@@ -1,6 +1,6 @@
 # 🚀 Diploma in Software Development
 
-I have successfully completed my **Diploma in Software Development** from **Code Institute**, a university-accredited institution, recognized worldwide for developing top talent in the tech industry. This program has equipped me with a strong foundation in both **front-end and back-end development**. My training has covered essential programming languages, frameworks, databases, and modern web technologies, preparing me for a dynamic career in software development.
+I am Elsie Nagawa and I have successfully completed my **Diploma in Software Development** from **Code Institute**, a university-accredited institution, recognized worldwide for developing top talent in the tech industry. This program has equipped me with a strong foundation in both **front-end and back-end development**. My training has covered essential programming languages, frameworks, databases, and modern web technologies, preparing me for a dynamic career in software development.
 
 ## 🛠 Skills Acquired
 
