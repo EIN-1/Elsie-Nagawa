@@ -29,11 +29,11 @@ I am Elsie Nagawa and I have successfully completed my **Diploma in Software Dev
 
 Here are five projects I have worked on:
 
-1. **Project 1 - [Health is wealth (HMTL/CSS)]** - [Live Link](https://ein-1.github.io/health-is-wealth/) | [GitHub Repository](https://github.com/EIN-1/health-is-wealth)
-2. **Project 2 - [Brain Tic Tac Toe (Javascript game)]** - [Live Link](https://ein-1.github.io/Brain-Tic-Tac-Toe/) | [GitHub Repository](https://github.com/EIN-1/Brain-Tic-Tac-Toe)
-3. **Project 3 - [Python quiz (Python game)]** - [Live Link](https://python-quiz-da8ccddf3267.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/p3-quiz-game)
-4. **Project 4 - [JusK Ask (Blog website)]** - [Live Link](https://just-ask-b3c36fe12bcc.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/justask)
-5. **Project 5 - [Technical skills (E-commerce)]** - [Live Link](https://technical-skills-12c3cb7561cc.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/Technical-skills)
+1. **Project 1 -> Health is wealth (HMTL/CSS)** - [Live Link](https://ein-1.github.io/health-is-wealth/) | [GitHub Repository](https://github.com/EIN-1/health-is-wealth)
+2. **Project 2 -> Brain Tic Tac Toe (Javascript game)** - [Live Link](https://ein-1.github.io/Brain-Tic-Tac-Toe/) | [GitHub Repository](https://github.com/EIN-1/Brain-Tic-Tac-Toe)
+3. **Project 3 -> Python quiz (Python game)** - [Live Link](https://python-quiz-da8ccddf3267.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/p3-quiz-game)
+4. **Project 4 -> JusK Ask (Blog website)** - [Live Link](https://just-ask-b3c36fe12bcc.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/justask)
+5. **Project 5 -> Technical skills (E-commerce)** - [Live Link](https://technical-skills-12c3cb7561cc.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/Technical-skills)
 
 ## 🎯 Ready for Junior Developer Role
 
