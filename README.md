@@ -1,6 +1,6 @@
-# 🚀 Diploma in Software Development
+# 🚀 Junior Software Developer
 
-I am Elsie Nagawa and I have successfully completed my **Diploma in Software Development**. This program has equipped me with a strong foundation in both **front-end and back-end development**. My training has covered essential programming languages, frameworks, databases, and modern web technologies, preparing me for a dynamic career in software development.
+I am Elsie Nagawa and I have successfully completed my **Diploma in Software Development**. This program has equipped me with a strong foundation in both **front-end and back-end development**. My training has covered essential programming languages, frameworks, databases, and modern web technologies, preparing me for a dynamic career in software development. click to view my website [Junior Software Developer](https://ein-1.github.io/Elsie-Nagawa/).
 
 ## 🛠 Skills Acquired
 
@@ -27,13 +27,13 @@ I am Elsie Nagawa and I have successfully completed my **Diploma in Software Dev
 
 ## 📂 Portfolio Projects
 
-Here are five projects I have worked on:
+Below are my five projects:
 
-1. **Project 1 -> Health is wealth (HMTL/CSS)** - [Live Link](https://ein-1.github.io/Health-Is-Wealth/) | [GitHub Repository](https://github.com/EIN-1/Health-Is-Wealth)
+1. **Project 1 -> Health is Wealth (HMTL/CSS)** - [Live Link](https://ein-1.github.io/Health-Is-Wealth/) | [GitHub Repository](https://github.com/EIN-1/Health-Is-Wealth)
 2. **Project 2 -> Brain Tic Tac Toe (Javascript game)** - [Live Link](https://ein-1.github.io/Brain-Tic-Tac-Toe/) | [GitHub Repository](https://github.com/EIN-1/Brain-Tic-Tac-Toe)
-3. **Project 3 -> Python quiz (Python game)** - [Live Link](https://python-quiz-da8ccddf3267.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/p3-quiz-game)
+3. **Project 3 -> Python Quiz (Python game)** - [Live Link](https://python-quiz-da8ccddf3267.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/p3-quiz-game)
 4. **Project 4 -> JusK Ask (Blog website)** - [Live Link](https://just-ask-b3c36fe12bcc.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/justask)
-5. **Project 5 -> Technical skills (E-commerce)** - [Live Link](https://technical-skills-12c3cb7561cc.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/Technical-skills)
+5. **Project 5 -> Technical SSkills (E-commerce)** - [Live Link](https://technical-skills-12c3cb7561cc.herokuapp.com/) | [GitHub Repository](https://github.com/EIN-1/Technical-skills)
 
 ## 🎯 Ready for Junior Developer Role
 
