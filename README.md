@@ -1,6 +1,6 @@
 # 🚀 Junior Software Developer
 
-I am Elsie Nagawa and I have successfully completed my **Diploma in Software Development**. This program has equipped me with a strong foundation in both **front-end and back-end development**. My training has covered essential programming languages, frameworks, databases, and modern web technologies, preparing me for a dynamic career in software development. click to view my website [Junior Software Developer](https://ein-1.github.io/Elsie-Nagawa/).
+I am Elsie Nagawa and I have successfully completed my **Diploma in Software Development**. This program has equipped me with a strong foundation in both **front-end and back-end development**. My training has covered essential programming languages, frameworks, databases, and modern web technologies, preparing me for a dynamic career in software development.
 
 ## 🛠 Skills Acquired
 
