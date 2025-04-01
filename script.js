@@ -1,13 +1,12 @@
 function printLebenslauf() {
-    var lebenslaufUrl = "image/lebenslauf.pdf"; // Replace with your actual PDF file URL
+    var lebenslaufUrl = "image/lebenslauf-EN.pdf"; // PDF file URL
+    console.log("Opening PDF:", lebenslaufUrl); // Logs the PDF URL in the console
+
     var win = window.open(lebenslaufUrl, "_blank");
 
     if (win) {
-        // Ensure the print command runs after the PDF loads
-        setTimeout(() => {
-            win.print();
-        }, 2000); // Adjust the delay as needed
+        console.log("PDF opened successfully.");
     } else {
-        alert("Please allow pop-ups to print the document.");
+        console.error("Failed to open PDF. Pop-ups may be blocked.");
     }
 }
