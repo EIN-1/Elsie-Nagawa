@@ -1,5 +1,5 @@
 function printLebenslauf() {
-    var lebenslaufUrl = "image/lebenslauf-Elsie-Nagawa.pdf"; // PDF file URL
+    var lebenslaufUrl = "image/Elsie_Nagawa_Lebenslauf.pdf"; // PDF file URL
     console.log("Checking PDF existence:", lebenslaufUrl);
 
     // Check if the PDF file exists before opening it
