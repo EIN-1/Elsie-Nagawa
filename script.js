@@ -1,5 +1,5 @@
 function printLebenslauf() {
-    var lebenslaufUrl = "image/Elsie_Nagawa_Lebenslauf_Ausbildung_zum_Fachinformatikerin _für_Anwendungsentwicklung.pdf"; // PDF file URL
+    var lebenslaufUrl = "image/ElsieNagawa_Lebenslauf_AusbildungFachinformatikerinfürAnwendungsentwicklung.pdf"; // PDF file URL
     console.log("Checking PDF existence:", lebenslaufUrl);
 
     // Check if the PDF file exists before opening it
